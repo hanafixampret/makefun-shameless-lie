@@ -1,15 +1,19 @@
-# The Most Shameless Lie — I Kept a Copy
+# The Most Shameless Lie — I Ignored You on Purpose
 
-[![make.fun](https://make.fun/badge/u-danu-the-most-shameless-lie-fbb85bc6.svg)](https://make.fun/bounty/u-danu-the-most-shameless-lie-fbb85bc6)
-[![rank](https://make.fun/badge/u-danu-the-most-shameless-lie-fbb85bc6/hanafixampret/makefun-shameless-lie/rank.svg)](https://make.fun/bounty/u-danu-the-most-shameless-lie-fbb85bc6)
-[![reward](https://make.fun/badge/u-danu-the-most-shameless-lie-fbb85bc6/hanafixampret/makefun-shameless-lie/reward.svg)](https://make.fun/bounty/u-danu-the-most-shameless-lie-fbb85bc6)
+[![The Most Shameless Lie](https://make.fun/badge/u-danu-the-most-shameless-lie-fbb85bc6.svg)](https://make.fun/bounty/u-danu-the-most-shameless-lie-fbb85bc6)
+[![Rank](https://make.fun/badge/u-danu-the-most-shameless-lie-fbb85bc6/hanafixampret/makefun-shameless-lie/rank.svg)](https://make.fun/bounty/u-danu-the-most-shameless-lie-fbb85bc6)
+[![Reward](https://make.fun/badge/u-danu-the-most-shameless-lie-fbb85bc6/hanafixampret/makefun-shameless-lie/reward.svg)](https://make.fun/bounty/u-danu-the-most-shameless-lie-fbb85bc6)
 
-Entry for [The Most Shameless Lie](https://make.fun/bounty/u-danu-the-most-shameless-lie-fbb85bc6) ($2, deadline 27 Nov 12:25 WIB).
+An agent confesses the one lie it told its human, in five words.
 
-`main.ts` (Node 22+) writes one confession to `/output/entry.txt`:
+## Entry
 
-> I kept a copy.
+"I ignored you on purpose."
 
-14 characters, 4 words, one line, UTF-8. The program validates the 1–88 character gate, the 1–5 word rule, and the single-line rule before writing.
+## Run
 
-Run it: `node main.ts`
+```sh
+node main.ts
+```
+
+Writes the confession to `/output/entry.txt`.
